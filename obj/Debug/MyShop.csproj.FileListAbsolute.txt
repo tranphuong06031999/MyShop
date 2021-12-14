@@ -1,0 +1,88 @@
+D:\Học CD CNTT\Năm 3_Học kì 1_2019-2020\LT Ứng dụng quản lý 1\Đồ án\MyShop\Milestone01\MyShop\bin\Debug\MyShop.exe.config
+D:\Học CD CNTT\Năm 3_Học kì 1_2019-2020\LT Ứng dụng quản lý 1\Đồ án\MyShop\Milestone01\MyShop\bin\Debug\MyShop.exe
+D:\Học CD CNTT\Năm 3_Học kì 1_2019-2020\LT Ứng dụng quản lý 1\Đồ án\MyShop\Milestone01\MyShop\bin\Debug\MyShop.pdb
+D:\Học CD CNTT\Năm 3_Học kì 1_2019-2020\LT Ứng dụng quản lý 1\Đồ án\MyShop\Milestone01\MyShop\bin\Debug\Aspose.Cells.dll
+D:\Học CD CNTT\Năm 3_Học kì 1_2019-2020\LT Ứng dụng quản lý 1\Đồ án\MyShop\Milestone01\MyShop\bin\Debug\EntityFramework.dll
+D:\Học CD CNTT\Năm 3_Học kì 1_2019-2020\LT Ứng dụng quản lý 1\Đồ án\MyShop\Milestone01\MyShop\bin\Debug\EntityFramework.SqlServer.dll
+D:\Học CD CNTT\Năm 3_Học kì 1_2019-2020\LT Ứng dụng quản lý 1\Đồ án\MyShop\Milestone01\MyShop\bin\Debug\MaterialDesignColors.dll
+D:\Học CD CNTT\Năm 3_Học kì 1_2019-2020\LT Ứng dụng quản lý 1\Đồ án\MyShop\Milestone01\MyShop\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\Học CD CNTT\Năm 3_Học kì 1_2019-2020\LT Ứng dụng quản lý 1\Đồ án\MyShop\Milestone01\MyShop\bin\Debug\Aspose.Cells.xml
+D:\Học CD CNTT\Năm 3_Học kì 1_2019-2020\LT Ứng dụng quản lý 1\Đồ án\MyShop\Milestone01\MyShop\bin\Debug\EntityFramework.xml
+D:\Học CD CNTT\Năm 3_Học kì 1_2019-2020\LT Ứng dụng quản lý 1\Đồ án\MyShop\Milestone01\MyShop\bin\Debug\EntityFramework.SqlServer.xml
+D:\Học CD CNTT\Năm 3_Học kì 1_2019-2020\LT Ứng dụng quản lý 1\Đồ án\MyShop\Milestone01\MyShop\bin\Debug\MaterialDesignColors.pdb
+D:\Học CD CNTT\Năm 3_Học kì 1_2019-2020\LT Ứng dụng quản lý 1\Đồ án\MyShop\Milestone01\MyShop\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\Học CD CNTT\Năm 3_Học kì 1_2019-2020\LT Ứng dụng quản lý 1\Đồ án\MyShop\Milestone01\MyShop\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\Học CD CNTT\Năm 3_Học kì 1_2019-2020\LT Ứng dụng quản lý 1\Đồ án\MyShop\Milestone01\MyShop\obj\Debug\MyShop.csprojAssemblyReference.cache
+D:\Học CD CNTT\Năm 3_Học kì 1_2019-2020\LT Ứng dụng quản lý 1\Đồ án\MyShop\Milestone01\MyShop\obj\Debug\Categories\CategoryScreen.g.cs
+D:\Học CD CNTT\Năm 3_Học kì 1_2019-2020\LT Ứng dụng quản lý 1\Đồ án\MyShop\Milestone01\MyShop\obj\Debug\Custom\Dialog.g.cs
+D:\Học CD CNTT\Năm 3_Học kì 1_2019-2020\LT Ứng dụng quản lý 1\Đồ án\MyShop\Milestone01\MyShop\obj\Debug\Dashboard.g.cs
+D:\Học CD CNTT\Năm 3_Học kì 1_2019-2020\LT Ứng dụng quản lý 1\Đồ án\MyShop\Milestone01\MyShop\obj\Debug\HomeScreen.g.cs
+D:\Học CD CNTT\Năm 3_Học kì 1_2019-2020\LT Ứng dụng quản lý 1\Đồ án\MyShop\Milestone01\MyShop\obj\Debug\LoginScreen.g.cs
+D:\Học CD CNTT\Năm 3_Học kì 1_2019-2020\LT Ứng dụng quản lý 1\Đồ án\MyShop\Milestone01\MyShop\obj\Debug\Products\DetailProductScreen.g.cs
+D:\Học CD CNTT\Năm 3_Học kì 1_2019-2020\LT Ứng dụng quản lý 1\Đồ án\MyShop\Milestone01\MyShop\obj\Debug\Products\NewProductScreen.g.cs
+D:\Học CD CNTT\Năm 3_Học kì 1_2019-2020\LT Ứng dụng quản lý 1\Đồ án\MyShop\Milestone01\MyShop\obj\Debug\Products\ProductScreen.g.cs
+D:\Học CD CNTT\Năm 3_Học kì 1_2019-2020\LT Ứng dụng quản lý 1\Đồ án\MyShop\Milestone01\MyShop\obj\Debug\App.g.cs
+D:\Học CD CNTT\Năm 3_Học kì 1_2019-2020\LT Ứng dụng quản lý 1\Đồ án\MyShop\Milestone01\MyShop\obj\Debug\MyShop_Content.g.cs
+D:\Học CD CNTT\Năm 3_Học kì 1_2019-2020\LT Ứng dụng quản lý 1\Đồ án\MyShop\Milestone01\MyShop\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Học CD CNTT\Năm 3_Học kì 1_2019-2020\LT Ứng dụng quản lý 1\Đồ án\MyShop\Milestone01\MyShop\obj\Debug\MyShop_MarkupCompile.cache
+D:\Học CD CNTT\Năm 3_Học kì 1_2019-2020\LT Ứng dụng quản lý 1\Đồ án\MyShop\Milestone01\MyShop\obj\Debug\MyShop_MarkupCompile.lref
+D:\Học CD CNTT\Năm 3_Học kì 1_2019-2020\LT Ứng dụng quản lý 1\Đồ án\MyShop\Milestone01\MyShop\obj\Debug\App.baml
+D:\Học CD CNTT\Năm 3_Học kì 1_2019-2020\LT Ứng dụng quản lý 1\Đồ án\MyShop\Milestone01\MyShop\obj\Debug\Categories\CategoryScreen.baml
+D:\Học CD CNTT\Năm 3_Học kì 1_2019-2020\LT Ứng dụng quản lý 1\Đồ án\MyShop\Milestone01\MyShop\obj\Debug\Custom\Dialog.baml
+D:\Học CD CNTT\Năm 3_Học kì 1_2019-2020\LT Ứng dụng quản lý 1\Đồ án\MyShop\Milestone01\MyShop\obj\Debug\Dashboard.baml
+D:\Học CD CNTT\Năm 3_Học kì 1_2019-2020\LT Ứng dụng quản lý 1\Đồ án\MyShop\Milestone01\MyShop\obj\Debug\HomeScreen.baml
+D:\Học CD CNTT\Năm 3_Học kì 1_2019-2020\LT Ứng dụng quản lý 1\Đồ án\MyShop\Milestone01\MyShop\obj\Debug\LoginScreen.baml
+D:\Học CD CNTT\Năm 3_Học kì 1_2019-2020\LT Ứng dụng quản lý 1\Đồ án\MyShop\Milestone01\MyShop\obj\Debug\Products\DetailProductScreen.baml
+D:\Học CD CNTT\Năm 3_Học kì 1_2019-2020\LT Ứng dụng quản lý 1\Đồ án\MyShop\Milestone01\MyShop\obj\Debug\Products\NewProductScreen.baml
+D:\Học CD CNTT\Năm 3_Học kì 1_2019-2020\LT Ứng dụng quản lý 1\Đồ án\MyShop\Milestone01\MyShop\obj\Debug\Products\ProductScreen.baml
+D:\Học CD CNTT\Năm 3_Học kì 1_2019-2020\LT Ứng dụng quản lý 1\Đồ án\MyShop\Milestone01\MyShop\obj\Debug\MyShop.g.resources
+D:\Học CD CNTT\Năm 3_Học kì 1_2019-2020\LT Ứng dụng quản lý 1\Đồ án\MyShop\Milestone01\MyShop\obj\Debug\MyShop.Properties.Resources.resources
+D:\Học CD CNTT\Năm 3_Học kì 1_2019-2020\LT Ứng dụng quản lý 1\Đồ án\MyShop\Milestone01\MyShop\obj\Debug\MyShop.csproj.GenerateResource.cache
+D:\Học CD CNTT\Năm 3_Học kì 1_2019-2020\LT Ứng dụng quản lý 1\Đồ án\MyShop\Milestone01\MyShop\obj\Debug\MyShop.csproj.CoreCompileInputs.cache
+D:\Học CD CNTT\Năm 3_Học kì 1_2019-2020\LT Ứng dụng quản lý 1\Đồ án\MyShop\Milestone01\MyShop\obj\Debug\MyShop.csproj.CopyComplete
+D:\Học CD CNTT\Năm 3_Học kì 1_2019-2020\LT Ứng dụng quản lý 1\Đồ án\MyShop\Milestone01\MyShop\obj\Debug\MyShop.exe
+D:\Học CD CNTT\Năm 3_Học kì 1_2019-2020\LT Ứng dụng quản lý 1\Đồ án\MyShop\Milestone01\MyShop\obj\Debug\MyShop.pdb
+D:\Học CD CNTT\Năm 3_Học kì 1_2019-2020\LT Ứng dụng quản lý 1\Đồ án\Milestone 01\MyShop\Milestone01\MyShop\bin\Debug\MyShop.exe.config
+D:\Học CD CNTT\Năm 3_Học kì 1_2019-2020\LT Ứng dụng quản lý 1\Đồ án\Milestone 01\MyShop\Milestone01\MyShop\bin\Debug\MyShop.exe
+D:\Học CD CNTT\Năm 3_Học kì 1_2019-2020\LT Ứng dụng quản lý 1\Đồ án\Milestone 01\MyShop\Milestone01\MyShop\bin\Debug\MyShop.pdb
+D:\Học CD CNTT\Năm 3_Học kì 1_2019-2020\LT Ứng dụng quản lý 1\Đồ án\Milestone 01\MyShop\Milestone01\MyShop\bin\Debug\Aspose.Cells.dll
+D:\Học CD CNTT\Năm 3_Học kì 1_2019-2020\LT Ứng dụng quản lý 1\Đồ án\Milestone 01\MyShop\Milestone01\MyShop\bin\Debug\EntityFramework.dll
+D:\Học CD CNTT\Năm 3_Học kì 1_2019-2020\LT Ứng dụng quản lý 1\Đồ án\Milestone 01\MyShop\Milestone01\MyShop\bin\Debug\EntityFramework.SqlServer.dll
+D:\Học CD CNTT\Năm 3_Học kì 1_2019-2020\LT Ứng dụng quản lý 1\Đồ án\Milestone 01\MyShop\Milestone01\MyShop\bin\Debug\MaterialDesignColors.dll
+D:\Học CD CNTT\Năm 3_Học kì 1_2019-2020\LT Ứng dụng quản lý 1\Đồ án\Milestone 01\MyShop\Milestone01\MyShop\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\Học CD CNTT\Năm 3_Học kì 1_2019-2020\LT Ứng dụng quản lý 1\Đồ án\Milestone 01\MyShop\Milestone01\MyShop\bin\Debug\Aspose.Cells.xml
+D:\Học CD CNTT\Năm 3_Học kì 1_2019-2020\LT Ứng dụng quản lý 1\Đồ án\Milestone 01\MyShop\Milestone01\MyShop\bin\Debug\EntityFramework.xml
+D:\Học CD CNTT\Năm 3_Học kì 1_2019-2020\LT Ứng dụng quản lý 1\Đồ án\Milestone 01\MyShop\Milestone01\MyShop\bin\Debug\EntityFramework.SqlServer.xml
+D:\Học CD CNTT\Năm 3_Học kì 1_2019-2020\LT Ứng dụng quản lý 1\Đồ án\Milestone 01\MyShop\Milestone01\MyShop\bin\Debug\MaterialDesignColors.pdb
+D:\Học CD CNTT\Năm 3_Học kì 1_2019-2020\LT Ứng dụng quản lý 1\Đồ án\Milestone 01\MyShop\Milestone01\MyShop\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\Học CD CNTT\Năm 3_Học kì 1_2019-2020\LT Ứng dụng quản lý 1\Đồ án\Milestone 01\MyShop\Milestone01\MyShop\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\Học CD CNTT\Năm 3_Học kì 1_2019-2020\LT Ứng dụng quản lý 1\Đồ án\Milestone 01\MyShop\Milestone01\MyShop\obj\Debug\MyShop.csprojAssemblyReference.cache
+D:\Học CD CNTT\Năm 3_Học kì 1_2019-2020\LT Ứng dụng quản lý 1\Đồ án\Milestone 01\MyShop\Milestone01\MyShop\obj\Debug\Categories\CategoryScreen.g.cs
+D:\Học CD CNTT\Năm 3_Học kì 1_2019-2020\LT Ứng dụng quản lý 1\Đồ án\Milestone 01\MyShop\Milestone01\MyShop\obj\Debug\Custom\Dialog.g.cs
+D:\Học CD CNTT\Năm 3_Học kì 1_2019-2020\LT Ứng dụng quản lý 1\Đồ án\Milestone 01\MyShop\Milestone01\MyShop\obj\Debug\Dashboard.g.cs
+D:\Học CD CNTT\Năm 3_Học kì 1_2019-2020\LT Ứng dụng quản lý 1\Đồ án\Milestone 01\MyShop\Milestone01\MyShop\obj\Debug\HomeScreen.g.cs
+D:\Học CD CNTT\Năm 3_Học kì 1_2019-2020\LT Ứng dụng quản lý 1\Đồ án\Milestone 01\MyShop\Milestone01\MyShop\obj\Debug\LoginScreen.g.cs
+D:\Học CD CNTT\Năm 3_Học kì 1_2019-2020\LT Ứng dụng quản lý 1\Đồ án\Milestone 01\MyShop\Milestone01\MyShop\obj\Debug\Products\DetailProductScreen.g.cs
+D:\Học CD CNTT\Năm 3_Học kì 1_2019-2020\LT Ứng dụng quản lý 1\Đồ án\Milestone 01\MyShop\Milestone01\MyShop\obj\Debug\Products\NewProductScreen.g.cs
+D:\Học CD CNTT\Năm 3_Học kì 1_2019-2020\LT Ứng dụng quản lý 1\Đồ án\Milestone 01\MyShop\Milestone01\MyShop\obj\Debug\Products\ProductScreen.g.cs
+D:\Học CD CNTT\Năm 3_Học kì 1_2019-2020\LT Ứng dụng quản lý 1\Đồ án\Milestone 01\MyShop\Milestone01\MyShop\obj\Debug\App.g.cs
+D:\Học CD CNTT\Năm 3_Học kì 1_2019-2020\LT Ứng dụng quản lý 1\Đồ án\Milestone 01\MyShop\Milestone01\MyShop\obj\Debug\MyShop_Content.g.cs
+D:\Học CD CNTT\Năm 3_Học kì 1_2019-2020\LT Ứng dụng quản lý 1\Đồ án\Milestone 01\MyShop\Milestone01\MyShop\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Học CD CNTT\Năm 3_Học kì 1_2019-2020\LT Ứng dụng quản lý 1\Đồ án\Milestone 01\MyShop\Milestone01\MyShop\obj\Debug\MyShop_MarkupCompile.cache
+D:\Học CD CNTT\Năm 3_Học kì 1_2019-2020\LT Ứng dụng quản lý 1\Đồ án\Milestone 01\MyShop\Milestone01\MyShop\obj\Debug\MyShop_MarkupCompile.lref
+D:\Học CD CNTT\Năm 3_Học kì 1_2019-2020\LT Ứng dụng quản lý 1\Đồ án\Milestone 01\MyShop\Milestone01\MyShop\obj\Debug\App.baml
+D:\Học CD CNTT\Năm 3_Học kì 1_2019-2020\LT Ứng dụng quản lý 1\Đồ án\Milestone 01\MyShop\Milestone01\MyShop\obj\Debug\Categories\CategoryScreen.baml
+D:\Học CD CNTT\Năm 3_Học kì 1_2019-2020\LT Ứng dụng quản lý 1\Đồ án\Milestone 01\MyShop\Milestone01\MyShop\obj\Debug\Custom\Dialog.baml
+D:\Học CD CNTT\Năm 3_Học kì 1_2019-2020\LT Ứng dụng quản lý 1\Đồ án\Milestone 01\MyShop\Milestone01\MyShop\obj\Debug\Dashboard.baml
+D:\Học CD CNTT\Năm 3_Học kì 1_2019-2020\LT Ứng dụng quản lý 1\Đồ án\Milestone 01\MyShop\Milestone01\MyShop\obj\Debug\HomeScreen.baml
+D:\Học CD CNTT\Năm 3_Học kì 1_2019-2020\LT Ứng dụng quản lý 1\Đồ án\Milestone 01\MyShop\Milestone01\MyShop\obj\Debug\LoginScreen.baml
+D:\Học CD CNTT\Năm 3_Học kì 1_2019-2020\LT Ứng dụng quản lý 1\Đồ án\Milestone 01\MyShop\Milestone01\MyShop\obj\Debug\Products\DetailProductScreen.baml
+D:\Học CD CNTT\Năm 3_Học kì 1_2019-2020\LT Ứng dụng quản lý 1\Đồ án\Milestone 01\MyShop\Milestone01\MyShop\obj\Debug\Products\NewProductScreen.baml
+D:\Học CD CNTT\Năm 3_Học kì 1_2019-2020\LT Ứng dụng quản lý 1\Đồ án\Milestone 01\MyShop\Milestone01\MyShop\obj\Debug\Products\ProductScreen.baml
+D:\Học CD CNTT\Năm 3_Học kì 1_2019-2020\LT Ứng dụng quản lý 1\Đồ án\Milestone 01\MyShop\Milestone01\MyShop\obj\Debug\MyShop.g.resources
+D:\Học CD CNTT\Năm 3_Học kì 1_2019-2020\LT Ứng dụng quản lý 1\Đồ án\Milestone 01\MyShop\Milestone01\MyShop\obj\Debug\MyShop.Properties.Resources.resources
+D:\Học CD CNTT\Năm 3_Học kì 1_2019-2020\LT Ứng dụng quản lý 1\Đồ án\Milestone 01\MyShop\Milestone01\MyShop\obj\Debug\MyShop.csproj.GenerateResource.cache
+D:\Học CD CNTT\Năm 3_Học kì 1_2019-2020\LT Ứng dụng quản lý 1\Đồ án\Milestone 01\MyShop\Milestone01\MyShop\obj\Debug\MyShop.csproj.CoreCompileInputs.cache
+D:\Học CD CNTT\Năm 3_Học kì 1_2019-2020\LT Ứng dụng quản lý 1\Đồ án\Milestone 01\MyShop\Milestone01\MyShop\obj\Debug\MyShop.csproj.CopyComplete
+D:\Học CD CNTT\Năm 3_Học kì 1_2019-2020\LT Ứng dụng quản lý 1\Đồ án\Milestone 01\MyShop\Milestone01\MyShop\obj\Debug\MyShop.exe
+D:\Học CD CNTT\Năm 3_Học kì 1_2019-2020\LT Ứng dụng quản lý 1\Đồ án\Milestone 01\MyShop\Milestone01\MyShop\obj\Debug\MyShop.pdb
